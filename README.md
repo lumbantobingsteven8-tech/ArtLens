@@ -730,9 +730,9 @@ browser.
 ## Author
 
 - **Name:** Steven Lumban Tobing
-- **GitHub username:** <YOUR GITHUB USERNAME>
-- **edX username:** <YOUR EDX USERNAME>
-- **City, Country:** <YOUR CITY, COUNTRY>
+- **GitHub username:** <YOUR lumbantobingsteven8-tech>
+- **edX username:** <YOUR Steven Lumban Tobing>
+- **City, Country:** <BERAU, INDONESIA>
 - **Date recorded:** <DATE>
 Flask==3.1.3
 Werkzeug==3.1.3
